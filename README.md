@@ -125,7 +125,7 @@ The configuration was tested and verified:
 
 Detailed step-by-step guide is available in:
 
-docs/lab-documentation.md
+[Lab Documentation](docs/lab-documentation.md)
 
 Includes:
 
